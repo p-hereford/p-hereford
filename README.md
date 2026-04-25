@@ -1,3 +1,2 @@
 Machine learning engineer working on **risk decision systems for financial infrastructure.**
-
-I build Python systems that turn quantitative signals into decisions a firm can defend. My work sits where modelling meets operations: fraud detection, operational risk and the reduction of unnecessary customer friction. The emphasis is on systems that are traceable,testable and suitable for inside real financial enviroments.
+I build Python systems that turn quantitative signals into decisions a firm can defend. My work sits where modelling meets operations: fraud detection, operational risk, and the reduction of unnecessary customer friction. The emphasis is on systems that are traceable, testable, and suitable for real financial environments.
